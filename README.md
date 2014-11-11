@@ -14,8 +14,6 @@ or graphical libraries (GD etc.) required.
 LICENSE
 ======================================================================================================================
 This script is freeware for non-commercial use. If you like it, please feel free to make a donation!
-However, if you intend to use the script in a commercial project, please donate at least EUR 6.
-You can make a donation on my website: http://www.gerd-tentler.de/tools/phpgraphs/
 
 ======================================================================================================================
 USAGE
@@ -109,6 +107,3 @@ Example #4 (multiple progress bars with labels):
   $graph->labels = "cats,dogs,birds";
   echo $graph->create();
 
-======================================================================================================================
-Source code + examples available at http://www.gerd-tentler.de/tools/phpgraphs/.
-======================================================================================================================
